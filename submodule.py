@@ -1,1 +1,1 @@
-string = "hello from child"
+string = "hello from child - updated"
