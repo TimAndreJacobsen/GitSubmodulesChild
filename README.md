@@ -1,0 +1,2 @@
+# GitSubmodulesChild
+Testing git submodules
